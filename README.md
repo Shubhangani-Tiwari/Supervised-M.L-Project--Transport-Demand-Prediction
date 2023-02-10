@@ -71,7 +71,7 @@ Project Description:
 
 EDA - Performed exploratory data analysis on numerical and categorical data.
 
-Data Cleaning - Missing value imputation,Outlier Treaatment
+Data Cleaning - Missing value imputation,Outlier Treatment
 
 Feature Selection - Used information gain for feature selection and dropped features which had less information gain Model development - Tried different model and finally compared all models accuracies, r2 score ,adjusted r2 score and all the evaluation criteria.
 
